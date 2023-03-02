@@ -1,0 +1,132 @@
+﻿0:00
+hello guys welcome back to the channel
+0:01
+today we will look at how to create a
+0:03
+simple looking animation in figma let's
+0:06
+get started
+0:08
+the first step is to create a frame so
+0:11
+when you create a frame you set the
+0:13
+dimensions to the width once we see and
+0:16
+the heights of 11 pixels
+0:22
+[Music]
+0:26
+next step is to change the color of the
+0:29
+frame
+0:31
+[Music]
+0:33
+using the keyboard combination Ctrl D
+0:36
+you can repeat it and free
+0:39
+[Music]
+0:41
+where do I go
+0:44
+you can choose to set ingredients value
+0:47
+for free too
+1:12
+[Applause]
+1:14
+select both frames and set the radials
+1:18
+to 200 pixels
+1:20
+[Music]
+1:37
+drug and place Frame 2 on top of frame
+1:40
+one and align them perfectly afterwards
+1:43
+group the selection of duplicates
+1:48
+foreign
+1:52
+[Music]
+1:55
+from the layers panel and select the
+1:59
+message screen to inside the frame one
+2:02
+now carefully drag the color gradients
+2:04
+to the left
+2:11
+select both frames and create a
+2:13
+component set
+2:20
+switch to prototype mode and sets the
+2:23
+trigger to factor delete
+2:25
+the timer 800 milliseconds then also
+2:29
+sets animation to slot and links on
+2:31
+timer 300 milliseconds
+2:35
+[Music]
+2:46
+copy and paste the first element in your
+2:49
+component sets onto your new frame
+2:52
+[Music]
+3:04
+in order to achieve that smooth
+3:06
+transition use the ellipse tool to
+3:09
+create a circle on your logo and set
+3:12
+color to white
+3:13
+foreign
+3:15
+[Applause]
+3:17
+[Music]
+3:17
+[Applause]
+3:19
+[Music]
+3:34
+[Applause]
+3:36
+[Music]
+3:45
+switch to prototype mode and set trigger
+3:48
+to after delay
+3:50
+then set the timer 2600 milliseconds
+3:54
+also 6 animation to Smart animes with
+3:57
+timer at 300 milliseconds
+4:05
+repeat the same process for the next
+4:07
+frame but set after delay to 800
+4:10
+milliseconds
+4:12
+[Music]
+4:15
+that's it for today guys thanks for
+4:18
+watching please share like And subscribe
+4:21
+bye
+4:23
+[Music]
